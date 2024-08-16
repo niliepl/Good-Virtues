@@ -1,21 +1,22 @@
-# Good-Virtues
+# GOOD Virtues
 
-## Description
-GOOD Virtues is a platform for charity, community events, and individual health. It supports social responsibility through fundraising campaigns and community activities while addressing health issues like insufficient water intake, sleep deprivation, and obesity. The platform offers integrated health metrics and personalized advice to help users lead healthier lives and contribute to their communities.
+## Overview
+GOOD Virtues is a university project developed as part of the VP and IBIS coursework. The project focuses on creating a platform for charity, community events, and individual health, integrating aspects of visual programming and business management.
 
-## Presentation
-- [View Presentation on Canva](https://www.canva.com/design/DAGKFTSgrxo/_Kf7AMS529uh0i60BVOM-Q/view?utm_content=DAGKFTSgrxo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+## Project Description
+- **Objective:** To develop a platform using Visual Basic (VB) that supports social responsibility through fundraising campaigns and community activities, while addressing health issues such as insufficient water intake, sleep deprivation, and obesity.
+- **Scope:** The project involves using Visual Basic for programming and incorporates business management principles from IBIS to ensure effective operation and impact.
 
-## Linktree
-- [Visit Linktree Profile](https://linktr.ee/goodvirtues?utm_source=qr_code)
+## Links
+- [Project Proposal](https://utpmy-my.sharepoint.com/:b:/g/personal/lee_22011261_utp_edu_my/ETsgWjqOfCZGhehL0DY6DSkBXLEqNIy04BhQUeTea9DcVQ) (Password: `Care.Connect.Contribute`)
+- [IBIS Report](https://utpmy-my.sharepoint.com/:b:/g/personal/lee_22011261_utp_edu_my/ESUEzuQFWeRJsWG4Akc8KMAB2R-DsOka1DJoETlhhW4DNQ?e=dl0YfL) (Password: `Care.Connect.Contribute`)
+- [Presentation on Canva](https://www.canva.com/design/DAGKFTSgrxo/_Kf7AMS529uh0i60BVOM-Q/view?utm_content=DAGKFTSgrxo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-## Code
-- All project files are available in the main branch.
+## Project Files
+- All project files are available in the `GV-Code` branch.
 
-## Project Proposal
-- [View Project Proposal](https://utpmy-my.sharepoint.com/:b:/g/personal/lee_22011261_utp_edu_my/ETsgWjqOfCZGhehL0DY6DSkBXLEqNIy04BhQUeTea9DcVQ)
-  - Password: `Care.Connect.Contribute`
+## Contributors
+- List of contributors (if applicable).
 
-## IBIS Report
-- [View IBIS Report](https://utpmy-my.sharepoint.com/:b:/g/personal/lee_22011261_utp_edu_my/ESUEzuQFWeRJsWG4Akc8KMAB2R-DsOka1DJoETlhhW4DNQ?e=dl0YfL)
-  - Password: `Care.Connect.Contribute`
+## License
+- Include any licensing information if applicable.
