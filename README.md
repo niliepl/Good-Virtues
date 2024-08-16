@@ -1,4 +1,4 @@
-# GOOD Virtues
+# Good Virtues
 
 ## Overview
 GOOD Virtues is a university project developed as part of the VP and IBIS coursework. The project focuses on creating a platform for charity, community events, and individual health, integrating aspects of visual programming and business management.
