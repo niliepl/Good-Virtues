@@ -5,12 +5,13 @@ Good Virtues is a university project developed as part of the VP and IBIS course
 
 ## Project Description
 - **Objective:** To develop a platform using Visual Basic (VB) that supports social responsibility through fundraising campaigns and community activities, while addressing health issues such as insufficient water intake, sleep deprivation, and obesity.
-- **Scope:** The project involves using Visual Basic for programming and Java for data storage within the VB application. It incorporates business management principles from IBIS to ensure effective operation and impact.
+- **Vision:** Care, Connect, Contribute – our vision is to enhance well-being through a supportive platform.
+- **Scope:** The project involves using Visual Basic for programming and Microsoft SQL Server Management Studio for data storage within the VB application. It incorporates business management principles from IBIS to ensure effective operation and impact.
 
 ## Skills Learned
 - **Visual Basic (VB):** Used for developing the main application.
-- **Microsoft SQL Server:** Utilized for data storage solutions within the VB application.
-- **Business Management:** Application of IBIS principles to enhance project effectiveness.
+- **Microsoft SQL Server Management Studio:** Utilized for data storage solutions within the VB application.
+- **Business Management:** Application of IBIS principles to enhance project effectiveness
 
 ## Links
 - [Project Proposal](https://utpmy-my.sharepoint.com/:b:/g/personal/lee_22011261_utp_edu_my/ETsgWjqOfCZGhehL0DY6DSkBXLEqNIy04BhQUeTea9DcVQ) (Password: `Care.Connect.Contribute`)
