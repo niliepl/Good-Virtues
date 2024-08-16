@@ -1,7 +1,7 @@
 # Good Virtues
 
 ## Overview
-GOOD Virtues is a university project developed as part of the VP and IBIS coursework. The project focuses on creating a platform for charity, community events, and individual health, integrating aspects of visual programming and business management.
+Good Virtues is a university project developed as part of the VP and IBIS coursework. The project focuses on creating a platform for charity, community events, and individual health, integrating aspects of visual programming and business management.
 
 ## Project Description
 - **Objective:** To develop a platform using Visual Basic (VB) that supports social responsibility through fundraising campaigns and community activities, while addressing health issues such as insufficient water intake, sleep deprivation, and obesity.
