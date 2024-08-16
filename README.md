@@ -9,7 +9,7 @@ Good Virtues is a university project developed as part of the VP and IBIS course
 
 ## Skills Learned
 - **Visual Basic (VB):** Used for developing the main application.
-- **Java:** Utilized for data storage solutions within the VB application.
+- **Microsoft SQL Server:** Utilized for data storage solutions within the VB application.
 - **Business Management:** Application of IBIS principles to enhance project effectiveness.
 
 ## Links
